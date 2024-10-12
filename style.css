@@ -1,0 +1,27 @@
+body{
+   text-align: center;
+   background-color: gray;
+
+}
+
+h1{
+    color:black;
+}
+button{
+    color:rgb(2, 164, 167);
+    text-size-adjust: bolder;
+    background-color: rgb(0, 0, 0);
+}
+
+label{
+    color:rgb(0, 0, 0);
+    
+}
+ul{
+    
+    text-align: left;
+}
+input{
+    color:rgb(2, 164, 167);
+    background-color: black;
+}
